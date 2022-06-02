@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @gusevdaniel
 
-- 🌱 Student aiming to succeed and bring some value to this world
 - 👯 I’m looking to collaborate on: Backend, Web App
 - 🌻 Potentially interested to join any project
 
